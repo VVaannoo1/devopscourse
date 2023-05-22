@@ -1,0 +1,14 @@
+/home/vanek/start/start/scripfile2.sh
+/home/vanek/start/start/.git/hooks/commit-msg.sample
+/home/vanek/start/start/.git/hooks/post-update.sample
+/home/vanek/start/start/.git/hooks/pre-rebase.sample
+/home/vanek/start/start/.git/hooks/push-to-checkout.sample
+/home/vanek/start/start/.git/hooks/update.sample
+/home/vanek/start/start/.git/hooks/fsmonitor-watchman.sample
+/home/vanek/start/start/.git/hooks/pre-receive.sample
+/home/vanek/start/start/.git/hooks/pre-merge-commit.sample
+/home/vanek/start/start/.git/hooks/prepare-commit-msg.sample
+/home/vanek/start/start/.git/hooks/applypatch-msg.sample
+/home/vanek/start/start/.git/hooks/pre-push.sample
+/home/vanek/start/start/.git/hooks/pre-applypatch.sample
+/home/vanek/start/start/.git/hooks/pre-commit.sample
